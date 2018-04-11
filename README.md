@@ -25,7 +25,10 @@ Um diesen Effekt zu erzielen brauch man zunächst die Bausteine "change y by()",
 
 Der Block benötigt für die Fertigstellung nun noch einige grundlegende Bausteine, die lediglich zur Funktion des Blockes beitragen: "When flag clicked" zum Starten des Blocks, "clear" für die Beseitigung vorheriger Malereien,"go to x:0 y:0", um den Sprite zentral auszurichten und den "forever"-Baustein.
 
-BILD: BLOCK 1
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202%20zugeschnitten.png
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202%20zugeschnitten.png)
+
 So sieht der Block zusammengebaut aus.
 
 In diesem Block kann man die Zahl im "change y by()"-Baustein variieren. 
