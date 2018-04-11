@@ -3,6 +3,8 @@
 
 ## Informatikprojekt 3: 3D-Illusionen
 
+Hier in der Projektpräsentation widmen wir uns dem Vorgehen im unserem Projekt schrittweise, welches Programm wir nutzen wie wir programmierten. Weitere Informationen zu unserem Halbjahresprojekt, wie Probleme, Fortschritte oder Unterichtsausfälle, sind in unserem <a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/README.md">Stundenblog</a> genauestens dokumentiert. 
+
 In unserem dritten Informatikprojekt dieses äußerst kurzen Halbjahres widmeten wir uns der dritten Dimension. Hier haben wir anhand verschiedener Methoden eine Illusion von 3D-Formen (z.B ein Turm, ein Herz oder eine Pyramide) erschaffen. Da die erste Methode, wie im <a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/README.md">Stundenblog</a>
 beschrieben, nicht funtionierte, präsentieren wir hier beide Versionen von 3D-Effekt, die ein wunderbares Ergebnis aufzeigen:
 
@@ -30,6 +32,8 @@ Nun baut man drei größere Bausteine zusammen, die hier beschrieben sind:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%2011%20zugeschnitten.png)
 
+Diese seztzen zum einen fest, um wieviel Prozent sich der Sprite zukünftig verändern soll, wenn die Größe/ die z-Achse verändert wird. Zum anderen werden hier Werte für die x- und y-Achsen festgelegt. 
+
 Im vierten Schritt wir der Code für die Pfeiltasten verfasst, sodass man mit diesen den Sprite auf dem Bildschirm kontrollieren kann. Die Blöcke für die "up" und "down" sind gleich, sie unterscheiden sich lediglich in den Werten, die einmal positiv und einmal negativ sind. Dies gilt sowohl für die "left" und "right" Tasten.
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%2012%20zugeschnitten.png)
@@ -48,10 +52,6 @@ Da sich ein Objekt oder eine Person irgendwann aus der möglichen Sichtweite ent
 Mit diesem letzten Teil ist der Block für die 3D-Illusion anhand von Tiefenwahrnehmung fertig. Nun kann man den Sprite mit den Pfeiltasten auf der fiktiven z-Achse (scroll z) bewegen lassen und ihn im Horizont verschwinden lassen.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
-
-
-
-
 
 
 ## <a name="2"></a>Zweites Projekt: "Stamping"
