@@ -47,7 +47,7 @@ Da sich ein Objekt oder eine Person irgendwann aus der möglichen Sichtweite ent
 
 Mit diesem letzten Teil ist der Block für die 3D-Illusion anhand von Tiefenwahrnehmung fertig. Nun kann man den Sprite mit den Pfeiltasten auf der fiktiven z-Achse (scroll z) bewegen lassen und ihn im Horizont verschwinden lassen.
 
-
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 
@@ -99,7 +99,7 @@ Dies ist der Paint Editor
 
 BILDER: VERSCHIEDENE FORMEN
 
-
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 
