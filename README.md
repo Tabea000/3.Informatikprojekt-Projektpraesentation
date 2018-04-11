@@ -6,11 +6,30 @@
 In unserem dritten Informatikprojekt dieses äußerst kurzen Halbjahres widmeten wir uns der dritten Dimension. Hier haben wir anhand verschiedener Methoden eine Illusion von 3D-Formen (z.B ein Turm, ein Herz oder eine Pyramide) erschaffen. Da die erste Methode, wie im <a href="https://github.com/Tabea000/3.Informatikprojekt-Stundenblog/blob/master/README.md">Stundenblog</a>
 beschrieben, nicht funtionierte, präsentieren wir hier beide Versionen von 3D-Effekt, die ein wunderbares Ergebnis aufzeigen:
 
-[Erstes Projekt: Horizont](#1)
+[Erstes Projekt: Tiefenwahrnehmung](#1)
 
 [Zweites Projekt: "Stamping"](#2)
 
-## <a name="1"></a>Erstes Projekt: Horizont
+## <a name="1"></a>Erstes Projekt: Tiefenwahrnehmung
+
+Bei dieser Methode, eine 3D-Illusion zu erzeugen, arbeitet man in einem fiktiven Horizont mit der Tiefenwahrnehmung. Anhand der Pfeiltasten der Tastatur kann man den Sprite so vergrößern/ verkleinern, dass es so aussieht, als würde der Sprite auf einen zukommen/sich von einem entfernen. 
+
+Normalerweise hat man in der 3D-Welt drei Achsen: die x-Achse, auf der sich etwas nach links oder rechts bewegt, die y-Achse, auf der sich etwasnach oben oder unten bewegt und die z-Achse. Diese macht das ganze 3-dimensional, das sich etwas auf dieser Achse nach vorne oder hiten bewegt. Da man auf Snap keine richtige z-Achse programmieren kann, schafft man sich die Illusion einer, indem man den Sprite in seiner Größe verändert. Bewegt sich in der realen Welt etwas in die Ferne, so erscheint es uns kleiner. Auf Snap wird der Sprite  wird wirklich kleiner und schafft somit die Illusion einer z-Achse und somit von einer dritten Dimension, obwohl es letztendlich bloß 2D ist.
+
+Um diese Tiefenwahrnehmung erzeugen zu können, benötigt man einen Block:
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%209%20zugeschnitten.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="2"></a>Zweites Projekt: "Stamping"
