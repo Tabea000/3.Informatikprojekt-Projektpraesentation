@@ -56,7 +56,7 @@ Mit diesem letzten Teil ist der Block für die 3D-Illusion anhand von Tiefenwahr
 
 ## <a name="2"></a>Zweites Projekt: "Stamping"
 
-Die zweite Methode einen 3D-Effekt zu erzielen ist das "layering and stamping", die wir ebenfalls auf der Seite <a href="https://en.scratch-wiki.info/wiki/How_to_Make_a_Three-Dimensional_Project">How to make a Three-Dimensional Project</a> gefunden haben. 
+Die zweite Methode um einen 3D-Effekt zu erzielen, ist das "layering and stamping", die wir ebenfalls auf der Seite <a href="https://en.scratch-wiki.info/wiki/How_to_Make_a_Three-Dimensional_Project">How to make a Three-Dimensional Project</a> gefunden haben. 
 Hierbei verändert man mehrfach die Position des Sprites und macht bei jeder neuen Position eine Kopie des Sprites, praktisch wie ein Stempel. 
 Der Sprite an sich ist eine flache 2D-Form, durch mehrere seiner Art übereinander gestempelt, wird dieser jedoch zu einem scheinbaren 3D-Körper.
 
