@@ -58,10 +58,6 @@ Dies ist der Paint Editor
 
 BILDER: VERSCHIEDENE FORMEN
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202%20zugeschnitten.png)
-
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202%20zugeschnitten.png)
-
 
 
 
