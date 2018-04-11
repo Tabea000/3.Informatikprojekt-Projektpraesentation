@@ -40,7 +40,7 @@ Zu dieser Methode gehört noch ein zweiter Block, der aus "when flag clicked", "
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202.2%20zugeschnitten.png)
 
-Dies veranlasst den Sprite, sich immer nach der Maus auszurichten. Somit kann man den Sprite drehen und den 3D-Effekt von allen Seiten begutachten. Diese mögliche 360°-Drehung verstärkt die Illusion, da man den Körper bewegen kann und nicht 2-Dimensional auf dem Bildschirm betrachtet.
+Dies veranlasst den Sprite, sich immer nach der Maus auszurichten. Somit kann man den Sprite drehen und den 3D-Effekt von allen Seiten begutachten. Diese mögliche 360°-Drehung verstärkt die Illusion, da man den Körper bewegen kann und nicht 2-Dimensional auf dem Bildschirm betrachtet. Hier sind unterschiedliche Perspektiven dargestellt:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%205%20zugeschnitten.png)
 
@@ -51,9 +51,9 @@ Dies veranlasst den Sprite, sich immer nach der Maus auszurichten. Somit kann ma
 
 Neben der ursprünglichen Pfeilform des Sprites auf Snap, kann man auch andere gemeometrische Figuren im 3D-Effekt ausprobieren. Dazu geht man bei "costumes" auf das Pinselsymbol, wodurch man zu dem Paint Editor gelangt. Hier kann man anhand verschiedener Funktionen eine eigene Form kreieren und schließlich durch die "layering and stamping"-Methode eine 3D-Illusion annehmen lassen.
 
-BILD: PAINT EDITOR
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%208%20zugeschnitten.png)
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%202%20zugeschnitten.png)
+Dies ist der Paint Editor
 
 
 BILDER: VERSCHIEDENE FORMEN
