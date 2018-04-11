@@ -20,6 +20,13 @@ Um diese Tiefenwahrnehmung erzeugen zu können, benötigt man einen Block:
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%209%20zugeschnitten.png)
 
+Als ersten Schritt muss man drei Variablen erstellen: scroll x,scroll y, scroll z, welche repräsentativ für die Achsen in dem 3D-Raum sind. Dieses kann man auf Snap unter der Option "Variables"->"make a variable" machen. Man gibt den Namen ein, drückt auf ok und die Variable erscheint auf der linken Seite. Das macht man nun drei mal für alle Achsen. Danach setzt man die drei Variablen in "set() to()"-Bausteine. Dort trägt man die dem oberen Screenshot zu entnehmenden Werte ein. Dadurch dass man die Werte von x und y verändern kann, kann man auch die Position des Sprites verändern, genauso wie seine Größe durch den Wert von z. 
+
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%2010%20zugeschnitten.png)
+
+Als zweiten Schritt baut man die "set(Variable) to()"-Bausteine unter einen "when flag clicked"-Baustein ein, damit man einen Start für den Block hat.Unter die Variablen setzt man nun eine "forever"-Schleife, die später alle restliche Blöcke umschließt uns somit dafür sorgt, das der 3D-Effekt anhält.
+
+
 
 
 
