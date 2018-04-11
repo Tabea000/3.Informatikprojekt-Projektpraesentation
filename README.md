@@ -19,7 +19,7 @@ Die zweite Methode, einen 3D-Effekt zu erzielen ist das "layering and stamping",
 Hierbei verändert man öfters die Position des Sprites und macht bei jeder neuen Position eine Kopie des Sprites, praktisch wie ein Stempel. 
 Der Sprite an sich ist eine flache 2D-Form, durch mehrere seiner Art übereinander gestempelt wir dieser zu einem scheinbaren 3D-Körper.
 
-BILD: GESTEMPELTER SPRITE
+https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/Bild%201%20zugeschnitten.png
 
 Um diesen Effekt zu erzielen brauch man zunächst die Bausteine "change y by()", um die Position des Sprites auf der y-Achse zu ändern, und den neuen Baustein "stamp". Dieser ist bei Snap unter "pen" zu finden und ist zuständig für das Stempeln. Setzt man diese Bausteine nun mehrmals abwechselnd hintereinander, so heißt dies, dass der Sprite eine Kopie von sich macht, nach oben wandert, eine neue Kopie von sich macht usw..
 
