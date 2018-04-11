@@ -96,8 +96,14 @@ Neben der ursprünglichen Pfeilform des Sprites auf Snap, kann man auch andere g
 
 Dies ist der Paint Editor
 
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/23.3..png)
+Ein Haus in 3D anhand der "stamping"-Methode.
+Nach einer gewissen Anzahl an gestapelten Rechtecken (Hauswände) wurde die Größe weiter verkleinert, sodass sich eine spitz zulaufendes Dach bildet.
 
-BILDER: VERSCHIEDENE FORMEN
+![bsp applab](https://raw.githubusercontent.com/Tabea000/3.Informatikprojekt-Stundenblog/master/Bildverzeichnis/16.3..png)
+Zwei Herzen (kopfüber) in 3D
+
+Man kann beide 3D-Methoden miteinander kombinieren, sodass man sowohl einen scheinbaren mehrfach dimensionalen Körper vorliegen hat, als auch eine Tiefenwahrnehmung, ,mit der sich der Körper bewegt.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
