@@ -1,6 +1,3 @@
-# <a name="Inhaltsverzeichnis"></a> Projektpräsentation von Tabea und Juliane
-
-
 
 # <a name="Inhaltsverzeichnis"></a> Projektpräsentation von Juliane und Tabea
 
@@ -19,7 +16,6 @@ beschrieben, nicht funtionierte, präsentieren wir hier beide Versionen von 3D-E
 ## <a name="2"></a>Zweites Projekt: "Stamping"
 
 Die zweite Methode, einen 3D-Effekt zu erzielen ist das "layering and stamping", gefunden auf der Seite <a href="https://en.scratch-wiki.info/wiki/How_to_Make_a_Three-Dimensional_Project">How to make a Three-Dimensional Project</a> . 
-
 Hierbei verändert man öfters die Position des Sprites und macht bei jeder neuen Position eine Kopie des Sprites, praktisch wie ein Stempel. 
 Der Sprite an sich ist eine flache 2D-Form, durch mehrere seiner Art übereinander gestempelt wir dieser zu einem scheinbaren 3D-Körper.
 
